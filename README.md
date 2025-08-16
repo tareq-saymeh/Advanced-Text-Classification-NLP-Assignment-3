@@ -14,6 +14,7 @@ The notebook explores:
 ---
 
 ## 📂 Project Structure  
+```bash
 ├── Assignment-3.ipynb # Main Jupyter Notebook with code & analysis
 ├── report_README.md # Report with detailed explanations
 ├── vocabulary.csv # Vocabulary list extracted from dataset
@@ -23,6 +24,7 @@ The notebook explores:
 ├── test/ # Dataset folder (sample documents)
 │ ├── acq/ # Example category (Acquisition news)
 │ └── ... # Other categories if available
+```
 
 
 
